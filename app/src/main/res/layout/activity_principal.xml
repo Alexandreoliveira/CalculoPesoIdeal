@@ -128,6 +128,8 @@
         android:layout_marginTop="50dp"
         android:textSize="18dp"
         android:gravity="center_horizontal"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
         android:textAlignment="center"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
